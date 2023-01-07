@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387504232546",
+    "project_id": "supamemo-b9bd8",
+    "storage_bucket": "supamemo-b9bd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387504232546:android:ac318c51ca2dd76aeb993b",
+        "android_client_info": {
+          "package_name": "com.example.supamemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387504232546-ok6sn030c069toe8kf118no343jtd4f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANeJ1JtGnEFrof9pebsGle6rvZl_F-73Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387504232546-ok6sn030c069toe8kf118no343jtd4f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
